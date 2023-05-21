@@ -1,0 +1,8 @@
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\Lab9.csproj.AssemblyReference.cache
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\TapDemo.xaml.g.cs
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\Lab9.AssemblyInfo.cs
+C:\Users\JHANINA\source\repos\Lab9\Lab9\Lab9\obj\Debug\netstandard2.0\Lab9.csproj.CoreCompileInputs.cache
